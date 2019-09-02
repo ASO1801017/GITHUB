@@ -10,4 +10,7 @@
 
 ?>
 
+hello github
+こんにちは
+
 <?php require '../footer.php'; ?>
